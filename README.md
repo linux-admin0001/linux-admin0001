@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello everyone! 👋
+My name is Igor Korobeinikov and I am 14 yers old. I have been studying python for 2 years and also I started learning Rust a month ago. But python is my favorite programming language. I want to work in Google and write my own operating system!
+
+And more:
 - 🔭 I’m currently working on https://github.com/KorobeinikovIgor/Communist
 - 🌱 I’m currently learning Rust!
 - 📫 How to reach me: igorkorobigor@gmail.com and LINUX_ADMIN#7418 (My discord)
