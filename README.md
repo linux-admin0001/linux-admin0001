@@ -7,3 +7,5 @@ And more:
 - 📫 How to reach me: igorkorobigor@gmail.com and LINUX_ADMIN#7418 (My discord)
 - ✨ I am student, study in school (9 grade) ✨
 
+#### Join to my discord server [RU]
+<a href="https://discord.gg/W54CYM4DGR"><img src="https://discordapp.com/api/guilds/848196497219649566/widget.png?style=banner2"/></a>
