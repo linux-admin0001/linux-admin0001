@@ -8,4 +8,3 @@
 
 ![Rust](https://img.shields.io/badge/-Rust-%120000b8?logo=rust&logoColor=white&style=flat-square)
 
-https://habrastorage.org/r/w1560/getpro/habr/upload_files/b32/392/174/b323921749d7ec32d9cabed151addc59.png
