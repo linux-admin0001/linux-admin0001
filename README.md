@@ -15,7 +15,5 @@ I am Rust & Python programmer. I do all sorts of things for linux. Focused on cr
 <a href="https://www.sqlite.org/index.html"><img src="https://user-images.githubusercontent.com/73735838/129028847-90730996-7bda-4c33-82b5-ccee85446334.png" width="88" height="40"/></a>
 <h2>Some statistics ⬇</h2>
 <img src="https://github-readme-stats.vercel.app/api/?username=linux-admin0001&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linux-admin0001&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
   
 <img src="https://github-profile-trophy.vercel.app/?username=linux-admin0001&row=1&theme=gruvbox"/>
