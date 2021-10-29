@@ -1,4 +1,7 @@
 <h1> Hello there 👋️, I'am LINUX_ADMIN 🐧️ </h1>
+
+[![wakatime](https://wakatime.com/badge/user/25c0df50-76d7-49f8-be81-4701ecbb6d2a.svg)](https://wakatime.com/@25c0df50-76d7-49f8-be81-4701ecbb6d2a)
+
 <img src="https://i1.wp.com/www.linuxlinks.com/wp-content/uploads/2020/01/RPI4-Memory.png?resize=750%2C266&ssl=1"/>
 
 I am Rust & Python programmer. I do all sorts of things for linux. Focused on cross-platform, cross-processor developing. Live and study in Russian Federation. Currently lerning Rust, Python.
