@@ -5,6 +5,8 @@
 <img src="https://i1.wp.com/www.linuxlinks.com/wp-content/uploads/2020/01/RPI4-Memory.png?resize=750%2C266&ssl=1"/>
 
 I am Rust & Python programmer. I do all sorts of things for linux. Focused on cross-platform, cross-processor developing. Live and study in Russian Federation. Currently lerning Rust, Python.
+
+Currently i am working on own game-server: https://github.com/TwisteRTanks/TwisteRServer.
 <h2> Tools which I use ⬇ </h2>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/73735838/129029682-4e9ee7c9-f66f-4e0e-91d0-46f7d421c938.png" width="40" height="40"/></a>
